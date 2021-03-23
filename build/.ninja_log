@@ -1,0 +1,24 @@
+# ninja log v5
+0	348	1616424365	com.github.tranqhuy46.edith@exe/Main.c	4125b10b03601465
+0	348	1616424365	com.github.tranqhuy46.edith@exe/Application.c	4125b10b03601465
+0	348	1616424365	com.github.tranqhuy46.edith@exe/Window.c	4125b10b03601465
+348	562	1616424366	com.github.tranqhuy46.edith@exe/meson-generated_Application.c.o	3037f9e45a127dfd
+348	645	1616424366	com.github.tranqhuy46.edith@exe/meson-generated_Window.c.o	f2ec7fea20cf76f7
+348	646	1616424366	com.github.tranqhuy46.edith@exe/meson-generated_Main.c.o	c56700329b2df2a0
+646	736	1616424366	com.github.tranqhuy46.edith	ffca98cdc9dc1cff
+0	445	1616424691	build.ninja	6badbd2f2303592d
+0	330	1616424692	com.github.tranqhuy46.edith@exe/src/Main.c	b88fc06527a5a9f7
+0	330	1616424692	com.github.tranqhuy46.edith@exe/src/Application.c	b88fc06527a5a9f7
+0	330	1616424692	com.github.tranqhuy46.edith@exe/src/Widgets/Window.c	b88fc06527a5a9f7
+330	541	1616424692	com.github.tranqhuy46.edith@exe/meson-generated_src_Application.c.o	8676d655a14419fe
+330	624	1616424692	com.github.tranqhuy46.edith@exe/meson-generated_src_Main.c.o	3c88dca3ade921bb
+331	633	1616424692	com.github.tranqhuy46.edith@exe/meson-generated_src_Widgets_Window.c.o	e85da4719b8d3d59
+633	727	1616424692	com.github.tranqhuy46.edith	7b25736d0f6f8a1b
+1	445	1616424888	build.ninja	6badbd2f2303592d
+0	337	1616424888	src/25a6634@@com.github.tranqhuy46.edith@exe/Main.c	94bf7800d2e7f6b4
+0	337	1616424888	src/25a6634@@com.github.tranqhuy46.edith@exe/Application.c	94bf7800d2e7f6b4
+0	337	1616424888	src/25a6634@@com.github.tranqhuy46.edith@exe/Widgets/Window.c	94bf7800d2e7f6b4
+337	566	1616424888	src/25a6634@@com.github.tranqhuy46.edith@exe/meson-generated_Widgets_Window.c.o	db885721e9c9129f
+337	594	1616424888	src/25a6634@@com.github.tranqhuy46.edith@exe/meson-generated_Main.c.o	2d4fca5b571a9880
+337	626	1616424888	src/25a6634@@com.github.tranqhuy46.edith@exe/meson-generated_Application.c.o	671b86c43d27d136
+626	719	1616424888	src/com.github.tranqhuy46.edith	1d934fc268f42bef
